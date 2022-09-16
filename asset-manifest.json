@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uditsaurabh/exercise1/static/css/main.f5616555.css",
+    "main.js": "/uditsaurabh/exercise1/static/js/main.35db2c2e.js",
+    "static/js/787.0d181fa8.chunk.js": "/uditsaurabh/exercise1/static/js/787.0d181fa8.chunk.js",
+    "static/media/hotelRoom.jpeg": "/uditsaurabh/exercise1/static/media/hotelRoom.df031151aab731a56da7.jpeg",
+    "index.html": "/uditsaurabh/exercise1/index.html",
+    "main.f5616555.css.map": "/uditsaurabh/exercise1/static/css/main.f5616555.css.map",
+    "main.35db2c2e.js.map": "/uditsaurabh/exercise1/static/js/main.35db2c2e.js.map",
+    "787.0d181fa8.chunk.js.map": "/uditsaurabh/exercise1/static/js/787.0d181fa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5616555.css",
+    "static/js/main.35db2c2e.js"
+  ]
+}
