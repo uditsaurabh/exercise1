@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+}
+.time {
+  display: flex;
+  align-items: flex-end;
+}
+.flight_stopline {
+  border-top: 2px solid rgb(95, 228, 33);
+  margin: 0px;
+}

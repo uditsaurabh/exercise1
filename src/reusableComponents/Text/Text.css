@@ -1,0 +1,15 @@
+.large {
+  font-size: 14px;
+}
+.bold {
+  font-size: 14px;
+  font-weight: bold;
+}
+.small {
+  font-size: 10px;
+  color: rgb(157, 157, 157);
+}
+.large_faint {
+  font-size: 14px;
+  color: rgb(157, 157, 157);
+}

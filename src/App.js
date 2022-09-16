@@ -1,23 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Card from './reusableComponents/Card/Card';
+import Header from './reusableComponents/Header/Header';
+import Text from './reusableComponents/Text/Text';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <Header>
+        <Text style={{ padding: '10px' }}>
+          Your destination has high number of reported Covid-19 cases.Your
+          health and safety comes first.Please follow government guidelines
+          while travelling.
+          <a href='/'>Learn More</a>
+        </Text>
+      </Header>
+      <Card />
     </div>
   );
 }

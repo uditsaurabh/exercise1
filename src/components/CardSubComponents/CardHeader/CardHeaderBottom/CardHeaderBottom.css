@@ -1,0 +1,17 @@
+.bottom {
+  display: flex;
+  margin-top: 10px;
+}
+.bottom_left {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+.no_colleagues {
+  display: flex;
+}
+.bottom_right {
+  display: flex;
+  flex: 1;
+  justify-content: end;
+}
