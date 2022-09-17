@@ -9,8 +9,7 @@ function App() {
         <Text style={{ padding: '10px' }}>
           Your destination has high number of reported Covid-19 cases.Your
           health and safety comes first.Please follow government guidelines
-          while travelling.
-          <a href='/'>Learn More</a>
+          while travelling.<span style={{ color: 'orange' }}>Learn More</span>
         </Text>
       </Header>
       <Card />

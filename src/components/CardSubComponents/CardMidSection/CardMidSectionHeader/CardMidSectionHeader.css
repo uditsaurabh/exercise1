@@ -1,0 +1,33 @@
+.mid_container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding-right: 90px;
+}
+.hotel_Image {
+  width: 23%;
+  object-fit: cover;
+}
+.description {
+  display: flex;
+  flex: 1;
+}
+.ratings {
+  flex: 1;
+  padding-left: 14%;
+}
+.hotel_details {
+  display: flex;
+  align-items: center;
+}
+.price {
+  flex: 1;
+  text-align: right;
+}
+.distance > section {
+  margin-left: 3px;
+}
+.distance > :nth-child(3) {
+  margin-left: 9px;
+}

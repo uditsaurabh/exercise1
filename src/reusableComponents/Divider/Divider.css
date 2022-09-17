@@ -1,0 +1,6 @@
+.dashed {
+  border-top: 1px dashed rgb(233, 233, 233);
+}
+.solid {
+  border-top: 1px solid rgb(233, 233, 233);
+}

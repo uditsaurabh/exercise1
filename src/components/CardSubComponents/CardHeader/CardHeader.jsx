@@ -1,9 +1,8 @@
 import React from 'react';
-
-import './CardHeader.css';
 import CardHeaderBottom from './CardHeaderBottom/CardHeaderBottom';
 import CardHeaderTop from './CardHeaderTop/CardHeaderTop';
 
+import './CardHeader.css';
 function CardHeader() {
   return (
     <>

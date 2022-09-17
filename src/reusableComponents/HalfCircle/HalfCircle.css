@@ -1,0 +1,10 @@
+.half-circle {
+  position: absolute;
+  width: 10px;
+  height: 20px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  border: 1px solid #d37519;
+  border-left: 3px solid #fdfdfd;
+  box-sizing: border-box;
+}

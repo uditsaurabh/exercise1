@@ -1,0 +1,15 @@
+.mainFooter {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding-right: 105px;
+}
+.mainFooter_left {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+}
+.mainFooter_right {
+  flex: 2;
+  text-align: end;
+}

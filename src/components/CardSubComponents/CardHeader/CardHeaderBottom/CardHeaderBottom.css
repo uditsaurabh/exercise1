@@ -1,6 +1,7 @@
 .bottom {
   display: flex;
   margin-top: 10px;
+  padding-right: 103px;
 }
 .bottom_left {
   display: flex;
